@@ -1,7 +1,7 @@
 
 
 # REST API for Online Shopping Application 
-A individual project, built in 15 days by me
+It's individual project, built in 15 days by me
 
 # About
 * This application is used by ABC Company admin and their Customer for online shopping 
